@@ -13,4 +13,4 @@ def fibonacci(jumps):
 
 
 
-fibonacci(10001)
+fibonacci(100)
